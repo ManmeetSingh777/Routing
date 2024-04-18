@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #000000; 
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between; 
+  }
+
+  
+  .navbar-left ul,
+.navbar-right ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+.navbar-left li,
+.navbar-right li {
+  display: inline;
+  margin-right: 20px; 
+}
+  
+ 
+  
+  .navbar a {
+    color: white; 
+  text-decoration: none;
+  font-size: 18px; 
+  }
+  
+  .navbar a:hover {
+        text-decoration: underline; 
+  }
+
+
+.navbar-left a{
+    font-size: 26px;
+}
+    
+
+    
